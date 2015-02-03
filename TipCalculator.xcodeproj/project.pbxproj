@@ -164,6 +164,7 @@
 				TargetAttributes = {
 					771C84391A808A7200812EB7 = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = 4L2V3AB2J2;
 					};
 					771C844E1A808A7200812EB7 = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -409,6 +410,7 @@
 				771C845B1A808A7200812EB7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		771C845C1A808A7200812EB7 /* Build configuration list for PBXNativeTarget "TipCalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +419,7 @@
 				771C845E1A808A7200812EB7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

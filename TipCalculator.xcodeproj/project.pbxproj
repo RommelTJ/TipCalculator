@@ -13,6 +13,7 @@
 		771C84471A808A7200812EB7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 771C84461A808A7200812EB7 /* Images.xcassets */; };
 		771C844A1A808A7200812EB7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 771C84481A808A7200812EB7 /* LaunchScreen.xib */; };
 		771C84561A808A7200812EB7 /* TipCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 771C84551A808A7200812EB7 /* TipCalculatorTests.swift */; };
+		771C84601A808C3300812EB7 /* TipCalculatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 771C845F1A808C3300812EB7 /* TipCalculatorModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		771C844F1A808A7200812EB7 /* TipCalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipCalculatorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		771C84541A808A7200812EB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		771C84551A808A7200812EB7 /* TipCalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipCalculatorTests.swift; sourceTree = "<group>"; };
+		771C845F1A808C3300812EB7 /* TipCalculatorModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TipCalculatorModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				771C843F1A808A7200812EB7 /* AppDelegate.swift */,
 				771C84411A808A7200812EB7 /* ViewController.swift */,
+				771C845F1A808C3300812EB7 /* TipCalculatorModel.swift */,
 				771C84431A808A7200812EB7 /* Main.storyboard */,
 				771C84461A808A7200812EB7 /* Images.xcassets */,
 				771C84481A808A7200812EB7 /* LaunchScreen.xib */,
@@ -212,6 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				771C84601A808C3300812EB7 /* TipCalculatorModel.swift in Sources */,
 				771C84421A808A7200812EB7 /* ViewController.swift in Sources */,
 				771C84401A808A7200812EB7 /* AppDelegate.swift in Sources */,
 			);
